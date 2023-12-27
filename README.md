@@ -39,4 +39,4 @@ The architecture follows a multi-stage process:
 This pipeline is designed to be adaptable for various data processing needs. It can be cloned and configured according to the specific requirements of different data sources and business logic.
 
 # Architecture Diagram
-![Architecture Diagram](Architectre.PNG)
+![Architecture Diagram](https://github.com/DataFlow-Analytics-Engine/Architectre.PNG)
