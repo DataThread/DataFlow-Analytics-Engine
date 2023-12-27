@@ -17,6 +17,9 @@ The architecture follows a multi-stage process:
 - **Reporting**: The transformed data is connected to Power BI, providing a platform for building interactive reports and dashboards.
 - **Alerting with Azure Logic Apps**: Finally, Azure Logic Apps are set up to trigger alerts and notifications based on specified events or conditions.
 
+# Architecture Diagram
+![Architecture Diagram](https://github.com/DataThread/DataFlow-Analytics-Engine/blob/096b13fd62139dc9b003b5d991e5d336f0567a8e/Architectre.PNG)
+
 # Components
 
 - **Azure Data Factory**: Orchestrates and automates the movement and transformation of data.
@@ -38,6 +41,4 @@ The architecture follows a multi-stage process:
 
 This pipeline is designed to be adaptable for various data processing needs. It can be cloned and configured according to the specific requirements of different data sources and business logic.
 
-# Architecture Diagram
-![Architecture Diagram](https://github.com/DataThread/DataFlow-Analytics-Engine/blob/096b13fd62139dc9b003b5d991e5d336f0567a8e/Architectre.PNG)
 
